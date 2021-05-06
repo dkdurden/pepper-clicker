@@ -28,6 +28,28 @@
   color: #61dafb;
 }
 
+#pepper {
+  width: 10em;
+  margin-top: 10em;
+}
+
+#pepper:hover {
+  transform: scale(1.5);
+}
+
+.counter {
+  margin-top: 2em;
+}
+
+.store h4 {
+  display: inline-block;
+}
+
+.upgrade-btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
